@@ -9,9 +9,7 @@
 ## Description 
 This command-line application manages a company's employees using node, inquirer, and MySQL.
 ## URL
-Coming soon still workong on code
-[Click here to see the live site!]()
-![Screenshot Deployed Website]()
+[Click here to see the live site!](https://drive.google.com/file/d/1Mb9wpVt6Bw-L_VLqTZOvASzgwjlPFxaP/view?usp=sharing)
 ## Installation
 1. Click on the "Clone or Download" button. 
 2. Choose "Download ZIP". 
